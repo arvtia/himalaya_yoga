@@ -1,0 +1,15 @@
+body{
+    top: 0;
+    left: 0;
+
+}
+
+.first-top p{
+    text-align: center;
+
+}
+
+.navbar{
+    display: flex
+
+}

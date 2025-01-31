@@ -1,0 +1,50 @@
+
+
+#p-tag-button{
+  border:5px solid whitesmoke;
+  background-color: none;
+  color: white;
+}
+#p-tag-button:hover{
+  background-color: white;
+  border: 5px solid white;
+  color: black;
+}
+
+#video-overlay-text{
+    margin-top: 0.5%;
+    padding: 47px;
+    
+}
+
+#container-text-heading{
+  background-color: orange;
+  padding: 0px;
+  position: relative;
+  top: 10px;
+}
+
+#btn-lm-med{
+  
+}
+
+
+#video4{
+  height: 90%;
+  width: 90%;
+  object-fit: cover;
+}
+
+#button-id{
+  padding: 10px;
+  background-image: linear-gradient(rgba(255, 0, 0, 0.818)
+  rgba(255, 166, 0, 0.838));
+  text-align: center;
+
+}
+
+#video-02{
+  height: 80%;
+  width: 100%;
+  object-fit: cover;
+}
