@@ -1,0 +1,24 @@
+body{
+
+    background-image: url('https://himalayayoga.net/wp-content/uploads/2025/01/Untitled-design-55.jpg');
+    background-repeat: no-repeat;
+
+}
+.custom-height{
+    height: 400px;
+}
+.custom-image-height{
+    height: 80%;
+    width: 80%;
+    object-fit: contain;
+}
+.custom-height-test{
+    height:180px ;
+}
+.custom-hr-height{
+    height: 10px;
+}
+.custom-height-test{
+    height: 90px;
+    width: 90px;
+}
